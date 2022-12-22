@@ -1,0 +1,1 @@
+See <https://cgit.nathanperry.dev> for my (public) personal projects
