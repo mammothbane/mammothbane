@@ -1,1 +1,1 @@
-See <https://cgit.nathanperry.dev> for my (public) personal projects
+See <https://pub.npry.dev> for my personal projects
