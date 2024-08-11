@@ -1,1 +1,3 @@
-See <https://pub.npry.dev> for my personal projects
+[public git repos](https://pub.npry.dev)
+
+[blog](blog.npry.dev)
